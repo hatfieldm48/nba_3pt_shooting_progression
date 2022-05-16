@@ -3,10 +3,20 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+
+<head>
+<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
 
 <!-- Initialize an autofill dropdown -->
-<input id="player-names-input" list="player-names" placeholder="Start typing...">
-<datalist id="player-names"></datalist>
+<div style="margin-left: 60px;">
+	<input id="player-names-input" list="player-names" placeholder="Start typing..." style="width: 175px;">
+	<datalist id="player-names"></datalist>
+	<span class="chart-title" style="margin-left: 5rem;">NBA 3pt FG Percentage Progressions</span>
+</div>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
@@ -17,9 +27,11 @@
 <script>
 
 // set the dimensions and margins of the graph
+const full_width = 800;
+const full_height = 400;
 var margin = {top: 10, right: 30, bottom: 30, left: 60},
-    width = 800 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+    width = full_width - margin.left - margin.right,
+    height = full_height - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -29,6 +41,33 @@ var svg = d3.select("#my_dataviz")
   .append("g")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
+
+// create the background color for the chart
+svg.append("rect")
+    .attr("width", "710")
+    .attr("height", "360")
+    .attr("fill", "#ebebeb");
+
+/*
+// Create the gridline variables
+const x         = d3.scaleLinear().domain([0, 1]).range([0, width]);
+const y         = d3.scaleLinear().domain([0, 1]).range([height, 0]);
+const xAxis     = d3.axisBottom(x).ticks(18);
+const yAxis     = d3.axisLeft(y).ticks(20);
+const xAxisGrid = d3.axisBottom(x).tickSize(-height).tickFormat('').ticks(18);
+const yAxisGrid = d3.axisLeft(y).tickSize(-width).tickFormat('').ticks(20);
+
+// Create grids
+svg.append('g')
+  .attr('class', 'x axis-grid')
+  .attr('transform', 'translate(0,' + height + ')')
+  .attr('stroke', 'white')
+  .call(xAxisGrid);
+svg.append('g')
+  .attr('class', 'y axis-grid')
+  .attr('stroke', 'white')
+  .call(yAxisGrid);
+*/
 
 //Read the data
 //d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/5_OneCatSevNumOrdered.csv", function(data) {
@@ -44,7 +83,6 @@ d3.csv("https://raw.githubusercontent.com/hatfieldm48/nba_3pt_shooting_progressi
         option.value = item;
         list_player_names.appendChild(option);
     });
-
 
     // add the options to the button
     d3.select("#selectButton")
@@ -68,12 +106,32 @@ d3.csv("https://raw.githubusercontent.com/hatfieldm48/nba_3pt_shooting_progressi
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x).ticks(7));
 
+    svg.append("text")
+      .attr("class", "x label")
+      .attr("text-anchor", "end")
+      .attr("x", width / 2)
+      .attr("y", height + 30)
+      .text("Years in the NBA")
+      .style('font-family','sans-serif')
+      .style('font-size','14px');
+
     // Add Y axis
     var y = d3.scaleLinear()
       .domain([0, d3.max(data, function(d) { return +d.fg3_pct; })])
       .range([ height, 0 ]);
     svg.append("g")
       .call(d3.axisLeft(y));
+
+    svg.append("text")
+      .attr("class", "y label")
+      .attr("text-anchor", "end")
+      .attr("y", -45)
+      .attr("x", -100)
+      .attr("dy", ".75em")
+      .attr("transform", "rotate(-90)")
+      .text("3pt FG Percentage")
+      .style('font-family','sans-serif')
+      .style('font-size','14px');;
 
     // Create a line for each name in the list
     for (var i=0; i < allGroup.length; i++) {
@@ -134,3 +192,5 @@ d3.csv("https://raw.githubusercontent.com/hatfieldm48/nba_3pt_shooting_progressi
 
 
 </script>
+
+</body>
