@@ -2,12 +2,10 @@ name,year,fg3,fg3a,fg3_pct
 Álex Abrines,0,94.0,247.0,0.381
 Álex Abrines,1,84.0,221.0,0.38
 Álex Abrines,2,41.0,127.0,0.323
-Precious Achiuwa,1,56.0,156.0,0.359
 Quincy Acy,2,18.0,60.0,0.3
 Quincy Acy,3,19.0,49.0,0.388
 Quincy Acy,4,37.0,90.0,0.411
 Quincy Acy,5,102.0,292.0,0.349
-Jaylen Adams,0,25.0,74.0,0.338
 Arron Afflalo,0,10.0,48.0,0.208
 Arron Afflalo,1,43.0,107.0,0.402
 Arron Afflalo,2,108.0,249.0,0.434
@@ -19,9 +17,6 @@ Arron Afflalo,7,118.0,333.0,0.354
 Arron Afflalo,8,91.0,238.0,0.382
 Arron Afflalo,9,62.0,151.0,0.411
 Arron Afflalo,10,27.0,70.0,0.386
-Blake Ahearn,0,10.0,34.0,0.294
-Alexis Ajinça,2,12.0,34.0,0.353
-Santi Aldama,0,6.0,48.0,0.125
 LaMarcus Aldridge,2,7.0,28.0,0.25
 LaMarcus Aldridge,8,37.0,105.0,0.352
 LaMarcus Aldridge,10,23.0,56.0,0.411
@@ -30,7 +25,6 @@ LaMarcus Aldridge,12,10.0,42.0,0.238
 LaMarcus Aldridge,13,61.0,157.0,0.389
 LaMarcus Aldridge,14,31.0,80.0,0.388
 LaMarcus Aldridge,15,14.0,46.0,0.304
-Joe Alexander,0,16.0,46.0,0.348
 Nickeil Alexander-Walker,0,46.0,133.0,0.346
 Nickeil Alexander-Walker,1,76.0,219.0,0.347
 Nickeil Alexander-Walker,2,105.0,338.0,0.311
@@ -38,8 +32,6 @@ Grayson Allen,0,32.0,99.0,0.323
 Grayson Allen,1,57.0,141.0,0.404
 Grayson Allen,2,107.0,274.0,0.391
 Grayson Allen,3,159.0,389.0,0.409
-Jarrett Allen,1,6.0,45.0,0.133
-Kadeem Allen,1,17.0,36.0,0.472
 Tony Allen,0,12.0,31.0,0.387
 Tony Allen,1,11.0,34.0,0.324
 Tony Allen,2,8.0,33.0,0.242
@@ -60,7 +52,6 @@ Rafer Alston,7,192.0,529.0,0.363
 Rafer Alston,8,143.0,407.0,0.351
 Rafer Alston,9,112.0,331.0,0.338
 Rafer Alston,10,58.0,168.0,0.345
-Jose Alvarado,0,32.0,110.0,0.291
 Al-Farouq Aminu,0,45.0,143.0,0.315
 Al-Farouq Aminu,1,13.0,47.0,0.277
 Al-Farouq Aminu,3,13.0,48.0,0.271
@@ -71,7 +62,6 @@ Al-Farouq Aminu,7,125.0,339.0,0.369
 Al-Farouq Aminu,8,96.0,280.0,0.343
 Al-Farouq Aminu,9,9.0,36.0,0.25
 Al-Farouq Aminu,10,8.0,37.0,0.216
-David Andersen,0,27.0,78.0,0.346
 Alan Anderson,0,24.0,58.0,0.414
 Alan Anderson,6,24.0,61.0,0.393
 Alan Anderson,7,95.0,285.0,0.333
@@ -117,7 +107,6 @@ Giannis Antetokounmpo,5,52.0,203.0,0.256
 Giannis Antetokounmpo,6,89.0,293.0,0.304
 Giannis Antetokounmpo,7,67.0,221.0,0.303
 Giannis Antetokounmpo,8,71.0,242.0,0.293
-Thanasis Antetokounmpo,5,7.0,29.0,0.241
 Carmelo Anthony,0,69.0,214.0,0.322
 Carmelo Anthony,1,42.0,158.0,0.266
 Carmelo Anthony,2,37.0,152.0,0.243
@@ -183,7 +172,6 @@ Darrell Arthur,5,24.0,64.0,0.375
 Darrell Arthur,6,26.0,110.0,0.236
 Darrell Arthur,7,45.0,117.0,0.385
 Darrell Arthur,8,53.0,117.0,0.453
-Jamel Artis,0,8.0,29.0,0.276
 Chucky Atkins,0,57.0,163.0,0.35
 Chucky Atkins,1,121.0,339.0,0.357
 Chucky Atkins,2,138.0,336.0,0.411
@@ -215,7 +203,6 @@ Kelenna Azubuike,0,34.0,79.0,0.43
 Kelenna Azubuike,1,71.0,195.0,0.364
 Kelenna Azubuike,2,94.0,210.0,0.448
 Kelenna Azubuike,3,10.0,27.0,0.37
-Chris Babb,0,6.0,27.0,0.222
 Luke Babbitt,1,43.0,100.0,0.43
 Luke Babbitt,2,62.0,178.0,0.348
 Luke Babbitt,3,36.0,95.0,0.379
@@ -232,7 +219,6 @@ Marvin Bagley III,2,37.0,108.0,0.343
 Marvin Bagley III,3,23.0,97.0,0.237
 Ron Baker,0,23.0,86.0,0.267
 Ron Baker,1,11.0,33.0,0.333
-Renaldo Balkman,0,5.0,27.0,0.185
 LaMelo Ball,0,92.0,261.0,0.352
 LaMelo Ball,1,220.0,565.0,0.389
 Lonzo Ball,0,90.0,295.0,0.305
@@ -251,7 +237,6 @@ Marcus Banks,1,21.0,59.0,0.356
 Marcus Banks,2,22.0,63.0,0.349
 Marcus Banks,3,5.0,29.0,0.172
 Marcus Banks,4,40.0,102.0,0.392
-Dalano Banton,0,13.0,51.0,0.255
 Leandro Barbosa,0,83.0,210.0,0.395
 Leandro Barbosa,1,51.0,139.0,0.367
 Leandro Barbosa,2,87.0,196.0,0.444
@@ -308,7 +293,6 @@ Matt Barnes,10,97.0,283.0,0.343
 Matt Barnes,11,136.0,376.0,0.362
 Matt Barnes,12,119.0,370.0,0.322
 Matt Barnes,13,87.0,263.0,0.331
-Scottie Barnes,0,58.0,193.0,0.301
 RJ Barrett,0,63.0,197.0,0.32
 RJ Barrett,1,124.0,309.0,0.401
 RJ Barrett,2,138.0,404.0,0.342
@@ -322,7 +306,6 @@ Will Barton,6,67.0,196.0,0.342
 Will Barton,7,108.0,288.0,0.375
 Will Barton,8,98.0,257.0,0.381
 Will Barton,9,157.0,430.0,0.365
-Brandon Bass,9,9.0,32.0,0.281
 Keita Bates-Diop,0,13.0,52.0,0.25
 Keita Bates-Diop,1,34.0,103.0,0.33
 Keita Bates-Diop,3,17.0,55.0,0.309
@@ -452,7 +435,6 @@ Jonathan Bender,3,19.0,53.0,0.358
 Jonathan Bender,10,14.0,39.0,0.359
 Anthony Bennett,0,13.0,53.0,0.245
 Anthony Bennett,3,13.0,48.0,0.271
-Dairis Bertāns,0,10.0,34.0,0.294
 Dāvis Bertāns,0,69.0,173.0,0.399
 Dāvis Bertāns,1,94.0,252.0,0.373
 Dāvis Bertāns,2,145.0,338.0,0.429
@@ -471,7 +453,6 @@ Patrick Beverley,8,56.0,141.0,0.397
 Patrick Beverley,9,83.0,242.0,0.343
 Saddiq Bey,0,175.0,460.0,0.38
 Saddiq Bey,1,211.0,610.0,0.346
-Khem Birch,3,13.0,52.0,0.25
 Goga Bitadze,0,8.0,42.0,0.19
 Goga Bitadze,1,20.0,79.0,0.253
 Goga Bitadze,2,23.0,80.0,0.288
@@ -512,8 +493,6 @@ Eric Bledsoe,8,124.0,377.0,0.329
 Eric Bledsoe,9,74.0,215.0,0.344
 Eric Bledsoe,10,121.0,355.0,0.341
 Eric Bledsoe,11,51.0,163.0,0.313
-Keljin Blevins,1,21.0,72.0,0.292
-Jaron Blossomgame,0,10.0,39.0,0.256
 Keith Bogans,0,67.0,187.0,0.358
 Keith Bogans,1,57.0,173.0,0.329
 Keith Bogans,2,65.0,200.0,0.325
@@ -536,8 +515,6 @@ Bojan Bogdanović,4,164.0,386.0,0.425
 Bojan Bogdanović,5,189.0,457.0,0.414
 Bojan Bogdanović,6,180.0,461.0,0.39
 Bojan Bogdanović,7,181.0,468.0,0.387
-Jonah Bolden,0,34.0,96.0,0.354
-Jordan Bone,1,10.0,32.0,0.313
 Isaac Bonga,1,25.0,71.0,0.352
 Isaac Bonga,2,13.0,47.0,0.277
 Matt Bonner,0,39.0,92.0,0.424
@@ -570,13 +547,10 @@ Chris Bosh,9,21.0,74.0,0.284
 Chris Bosh,10,74.0,218.0,0.339
 Chris Bosh,11,63.0,168.0,0.375
 Chris Bosh,12,81.0,222.0,0.365
-Brandon Boston Jr.,0,34.0,111.0,0.306
 Chris Boucher,1,12.0,37.0,0.324
 Chris Boucher,2,38.0,118.0,0.322
 Chris Boucher,3,90.0,235.0,0.383
 Chris Boucher,4,68.0,229.0,0.297
-James Bouknight,0,17.0,49.0,0.347
-Ky Bowman,0,33.0,107.0,0.308
 Avery Bradley,1,22.0,54.0,0.407
 Avery Bradley,2,40.0,126.0,0.317
 Avery Bradley,3,79.0,200.0,0.395
@@ -588,7 +562,6 @@ Avery Bradley,8,86.0,245.0,0.351
 Avery Bradley,9,63.0,173.0,0.364
 Avery Bradley,10,33.0,101.0,0.327
 Avery Bradley,11,82.0,210.0,0.39
-Jarrell Brantley,1,12.0,28.0,0.429
 Ignas Brazdeikis,1,11.0,28.0,0.393
 Ignas Brazdeikis,2,27.0,87.0,0.31
 Corey Brewer,0,7.0,36.0,0.194
@@ -616,7 +589,6 @@ Miles Bridges,0,65.0,200.0,0.325
 Miles Bridges,1,99.0,300.0,0.33
 Miles Bridges,2,116.0,290.0,0.4
 Miles Bridges,3,154.0,465.0,0.331
-Isaiah Briscoe,0,11.0,34.0,0.324
 Oshae Brissett,1,33.0,78.0,0.423
 Oshae Brissett,2,83.0,237.0,0.35
 Ryan Broekhoff,0,38.0,93.0,0.409
@@ -664,8 +636,6 @@ Devin Brown,4,81.0,227.0,0.357
 Devin Brown,5,45.0,146.0,0.308
 Devin Brown,6,28.0,97.0,0.289
 Devin Brown,7,58.0,164.0,0.354
-Greg Brown III,0,19.0,61.0,0.311
-Jabari Brown,0,23.0,62.0,0.371
 Jaylen Brown,0,46.0,135.0,0.341
 Jaylen Brown,1,121.0,306.0,0.395
 Jaylen Brown,2,95.0,276.0,0.344
@@ -696,7 +666,6 @@ Jalen Brunson,0,63.0,181.0,0.348
 Jalen Brunson,1,43.0,120.0,0.358
 Jalen Brunson,2,81.0,200.0,0.405
 Jalen Brunson,3,94.0,252.0,0.373
-Nicolás Brussino,0,29.0,95.0,0.305
 Thomas Bryant,1,33.0,99.0,0.333
 Thomas Bryant,2,37.0,91.0,0.407
 Thomas Bryant,4,12.0,42.0,0.286
@@ -751,7 +720,6 @@ Caron Butler,9,92.0,257.0,0.358
 Caron Butler,10,128.0,330.0,0.388
 Caron Butler,11,98.0,249.0,0.394
 Caron Butler,12,83.0,219.0,0.379
-Jared Butler,0,28.0,88.0,0.318
 Jimmy Butler,1,40.0,105.0,0.381
 Jimmy Butler,2,68.0,240.0,0.283
 Jimmy Butler,3,73.0,193.0,0.378
@@ -775,7 +743,6 @@ Rasual Butler,9,21.0,77.0,0.273
 Rasual Butler,11,26.0,62.0,0.419
 Rasual Butler,12,91.0,235.0,0.387
 Rasual Butler,13,15.0,49.0,0.306
-Dwight Buycks,4,15.0,45.0,0.333
 Will Bynum,4,12.0,55.0,0.218
 Will Bynum,5,16.0,50.0,0.32
 Will Bynum,6,7.0,29.0,0.241
@@ -816,8 +783,6 @@ Isaiah Canaan,2,176.0,485.0,0.363
 Isaiah Canaan,3,25.0,94.0,0.266
 Isaiah Canaan,4,22.0,66.0,0.333
 Isaiah Canaan,5,34.0,96.0,0.354
-Vlatko Čančar,1,9.0,33.0,0.273
-Devin Cannady,1,15.0,37.0,0.405
 Brian Cardinal,3,55.0,124.0,0.444
 Brian Cardinal,4,44.0,125.0,0.352
 Brian Cardinal,5,13.0,29.0,0.448
@@ -881,7 +846,6 @@ Omri Casspi,5,35.0,87.0,0.402
 Omri Casspi,6,112.0,274.0,0.409
 Omri Casspi,7,15.0,43.0,0.349
 Omri Casspi,9,15.0,43.0,0.349
-Tyler Cavanaugh,0,32.0,89.0,0.36
 Mario Chalmers,0,114.0,311.0,0.367
 Mario Chalmers,1,75.0,236.0,0.318
 Mario Chalmers,2,83.0,231.0,0.359
@@ -891,7 +855,6 @@ Mario Chalmers,5,87.0,226.0,0.385
 Mario Chalmers,6,73.0,248.0,0.294
 Mario Chalmers,7,46.0,149.0,0.309
 Mario Chalmers,9,53.0,191.0,0.277
-Justin Champagnie,0,10.0,28.0,0.357
 Wilson Chandler,0,9.0,30.0,0.3
 Wilson Chandler,1,103.0,314.0,0.328
 Wilson Chandler,2,40.0,150.0,0.267
@@ -914,9 +877,6 @@ Marquese Chriss,0,72.0,224.0,0.321
 Marquese Chriss,1,56.0,190.0,0.295
 Marquese Chriss,2,16.0,72.0,0.222
 Marquese Chriss,3,8.0,39.0,0.205
-Dionte Christmas,0,9.0,31.0,0.29
-Semaj Christon,0,12.0,63.0,0.19
-Josh Christopher,0,56.0,189.0,0.296
 Earl Clark,3,35.0,104.0,0.337
 Earl Clark,4,41.0,122.0,0.336
 Gary Clark,0,41.0,138.0,0.297
@@ -939,8 +899,6 @@ Jordan Clarkson,4,144.0,445.0,0.324
 Jordan Clarkson,5,152.0,413.0,0.368
 Jordan Clarkson,6,208.0,599.0,0.347
 Jordan Clarkson,7,190.0,597.0,0.318
-Victor Claver,0,25.0,87.0,0.287
-Chris Clemons,0,37.0,107.0,0.346
 Amir Coffey,1,23.0,56.0,0.411
 Amir Coffey,2,96.0,254.0,0.378
 Norris Cole,0,21.0,76.0,0.276
@@ -969,7 +927,6 @@ Darren Collison,6,87.0,217.0,0.401
 Darren Collison,7,73.0,175.0,0.417
 Darren Collison,8,96.0,205.0,0.468
 Darren Collison,9,79.0,194.0,0.407
-Nick Collison,10,16.0,60.0,0.267
 Mike Conley,0,30.0,91.0,0.33
 Mike Conley,1,88.0,217.0,0.406
 Mike Conley,2,82.0,212.0,0.387
@@ -1075,12 +1032,10 @@ Jae Crowder,9,127.0,365.0,0.348
 Jarrett Culver,0,66.0,221.0,0.299
 Jarrett Culver,1,13.0,53.0,0.245
 Jarrett Culver,2,12.0,47.0,0.255
-Cade Cunningham,0,114.0,363.0,0.314
 Dante Cunningham,6,55.0,174.0,0.316
 Dante Cunningham,7,71.0,181.0,0.392
 Dante Cunningham,8,58.0,168.0,0.345
 Dante Cunningham,9,30.0,65.0,0.462
-Jared Cunningham,3,12.0,39.0,0.308
 Seth Curry,2,50.0,111.0,0.45
 Seth Curry,3,137.0,322.0,0.425
 Seth Curry,5,113.0,251.0,0.45
@@ -1115,7 +1070,6 @@ Troy Daniels,5,74.0,194.0,0.381
 Troy Daniels,6,46.0,132.0,0.348
 Gigi Datome,0,7.0,39.0,0.179
 Gigi Datome,1,18.0,40.0,0.45
-Brandon Davies,1,8.0,34.0,0.235
 Anthony Davis,3,35.0,108.0,0.324
 Anthony Davis,4,40.0,134.0,0.299
 Anthony Davis,5,55.0,162.0,0.34
@@ -1136,7 +1090,6 @@ Baron Davis,9,99.0,328.0,0.302
 Baron Davis,10,82.0,296.0,0.277
 Baron Davis,11,81.0,239.0,0.339
 Baron Davis,12,26.0,85.0,0.306
-Josh Davis,1,19.0,53.0,0.358
 Terence Davis,0,94.0,242.0,0.388
 Terence Davis,1,98.0,267.0,0.367
 Terence Davis,2,49.0,149.0,0.329
@@ -1164,7 +1117,6 @@ Dewayne Dedmon,4,50.0,141.0,0.355
 Dewayne Dedmon,5,83.0,217.0,0.382
 Dewayne Dedmon,6,22.0,107.0,0.206
 Dewayne Dedmon,8,19.0,47.0,0.404
-Bryce Dejean-Jones,0,12.0,32.0,0.375
 Sam Dekker,1,60.0,187.0,0.321
 Sam Dekker,2,10.0,60.0,0.167
 Sam Dekker,3,19.0,62.0,0.306
@@ -1256,7 +1208,6 @@ Tyler Dorsey,1,44.0,132.0,0.333
 Luguentz Dort,0,30.0,101.0,0.297
 Luguentz Dort,1,113.0,329.0,0.343
 Luguentz Dort,2,130.0,391.0,0.332
-Ayo Dosunmu,0,70.0,186.0,0.376
 Damyean Dotson,0,22.0,68.0,0.324
 Damyean Dotson,1,126.0,342.0,0.368
 Damyean Dotson,2,59.0,163.0,0.362
@@ -1290,10 +1241,8 @@ Goran Dragić,10,57.0,164.0,0.348
 Goran Dragić,11,124.0,338.0,0.367
 Goran Dragić,12,91.0,244.0,0.373
 Goran Dragić,13,16.0,63.0,0.254
-Larry Drew II,0,4.0,26.0,0.154
 Andre Drummond,6,5.0,38.0,0.132
 Andre Drummond,7,5.0,35.0,0.143
-Chris Duarte,0,94.0,255.0,0.369
 Jared Dudley,0,9.0,41.0,0.22
 Jared Dudley,1,29.0,74.0,0.392
 Jared Dudley,2,120.0,262.0,0.458
@@ -1316,7 +1265,6 @@ Chris Duhon,5,90.0,258.0,0.349
 Chris Duhon,6,13.0,52.0,0.25
 Chris Duhon,7,50.0,119.0,0.42
 Chris Duhon,8,33.0,91.0,0.363
-David Duke Jr.,0,9.0,37.0,0.243
 Mike Dunleavy,0,52.0,150.0,0.347
 Mike Dunleavy,1,94.0,254.0,0.37
 Mike Dunleavy,2,107.0,276.0,0.388
@@ -1350,13 +1298,10 @@ Kevin Durant,10,173.0,413.0,0.419
 Kevin Durant,11,137.0,388.0,0.353
 Kevin Durant,13,85.0,189.0,0.45
 Kevin Durant,14,115.0,300.0,0.383
-Cleanthony Early,0,22.0,84.0,0.262
-Jarell Eddie,0,15.0,47.0,0.319
 Anthony Edwards,0,171.0,520.0,0.329
 Anthony Edwards,1,215.0,602.0,0.357
 Carsen Edwards,0,24.0,76.0,0.316
 Carsen Edwards,1,18.0,63.0,0.286
-Kessler Edwards,0,48.0,136.0,0.353
 CJ Elleby,0,7.0,34.0,0.206
 CJ Elleby,1,37.0,126.0,0.294
 Henry Ellenson,0,10.0,35.0,0.286
@@ -1393,7 +1338,6 @@ Joel Embiid,2,79.0,263.0,0.3
 Joel Embiid,3,57.0,172.0,0.331
 Joel Embiid,4,58.0,154.0,0.377
 Joel Embiid,5,93.0,251.0,0.371
-Kim English,0,14.0,50.0,0.28
 James Ennis III,0,31.0,95.0,0.326
 James Ennis III,1,26.0,58.0,0.448
 James Ennis III,2,51.0,137.0,0.372
@@ -1405,8 +1349,6 @@ Tyler Ennis,0,12.0,43.0,0.279
 Tyler Ennis,1,13.0,39.0,0.333
 Tyler Ennis,2,27.0,70.0,0.386
 Tyler Ennis,3,14.0,56.0,0.25
-Jacob Evans,1,13.0,39.0,0.333
-Jawun Evans,0,15.0,54.0,0.278
 Maurice Evans,3,27.0,82.0,0.329
 Maurice Evans,4,43.0,116.0,0.371
 Maurice Evans,5,48.0,133.0,0.361
@@ -1429,7 +1371,6 @@ Dante Exum,0,83.0,264.0,0.314
 Dante Exum,2,44.0,149.0,0.295
 Dante Exum,4,18.0,62.0,0.29
 Dante Exum,5,15.0,43.0,0.349
-Christian Eyenga,0,25.0,91.0,0.275
 Jordan Farmar,0,45.0,137.0,0.328
 Jordan Farmar,1,114.0,307.0,0.371
 Jordan Farmar,2,49.0,146.0,0.336
@@ -1439,7 +1380,6 @@ Jordan Farmar,5,55.0,125.0,0.44
 Jordan Farmar,7,70.0,160.0,0.438
 Jordan Farmar,8,35.0,97.0,0.361
 Jordan Farmar,9,16.0,45.0,0.356
-Vítor Luiz Faverani,0,12.0,40.0,0.3
 Derrick Favors,7,14.0,63.0,0.222
 Derrick Favors,8,17.0,78.0,0.218
 Raymond Felton,0,97.0,271.0,0.358
@@ -1463,7 +1403,6 @@ Rudy Fernández,0,159.0,398.0,0.399
 Rudy Fernández,1,98.0,266.0,0.368
 Rudy Fernández,2,116.0,361.0,0.321
 Rudy Fernández,3,40.0,122.0,0.328
-Bruno Fernando,0,5.0,37.0,0.135
 Yogi Ferrell,0,68.0,176.0,0.386
 Yogi Ferrell,1,134.0,359.0,0.373
 Yogi Ferrell,2,54.0,149.0,0.362
@@ -1546,7 +1485,6 @@ Channing Frye,10,91.0,235.0,0.387
 Channing Frye,11,137.0,335.0,0.409
 Channing Frye,12,39.0,115.0,0.339
 Channing Frye,13,32.0,79.0,0.405
-Markelle Fultz,2,36.0,135.0,0.267
 Wenyen Gabriel,1,13.0,32.0,0.406
 Wenyen Gabriel,2,8.0,28.0,0.286
 Sundiata Gaines,0,7.0,26.0,0.269
@@ -1585,8 +1523,6 @@ Francisco García,9,10.0,45.0,0.222
 Darius Garland,0,105.0,296.0,0.355
 Darius Garland,1,105.0,266.0,0.395
 Darius Garland,2,174.0,454.0,0.383
-Diante Garrett,1,36.0,96.0,0.375
-Luka Garza,0,16.0,49.0,0.327
 Marc Gasol,8,104.0,268.0,0.388
 Marc Gasol,9,109.0,320.0,0.341
 Marc Gasol,10,99.0,273.0,0.363
@@ -1652,16 +1588,13 @@ Daniel Gibson,3,71.0,149.0,0.477
 Daniel Gibson,4,118.0,293.0,0.403
 Daniel Gibson,5,55.0,139.0,0.396
 Daniel Gibson,6,56.0,163.0,0.344
-Jonathan Gibson,0,15.0,45.0,0.333
 Taj Gibson,8,7.0,35.0,0.2
 Taj Gibson,9,11.0,34.0,0.324
 Taj Gibson,12,15.0,38.0,0.395
-Josh Giddey,0,56.0,213.0,0.263
 Shai Gilgeous-Alexander,0,51.0,139.0,0.367
 Shai Gilgeous-Alexander,1,87.0,251.0,0.347
 Shai Gilgeous-Alexander,2,71.0,170.0,0.418
 Shai Gilgeous-Alexander,3,89.0,297.0,0.3
-Anthony Gill,1,14.0,26.0,0.538
 Manu Ginóbili,0,51.0,148.0,0.345
 Manu Ginóbili,1,88.0,245.0,0.359
 Manu Ginóbili,2,97.0,258.0,0.376
@@ -1729,7 +1662,6 @@ Eric Gordon,10,216.0,600.0,0.36
 Eric Gordon,11,96.0,303.0,0.317
 Eric Gordon,12,69.0,210.0,0.329
 Eric Gordon,13,124.0,301.0,0.412
-Andrew Goudelock,0,28.0,75.0,0.373
 Devonte' Graham,0,34.0,121.0,0.281
 Devonte' Graham,1,218.0,585.0,0.373
 Devonte' Graham,2,179.0,477.0,0.375
@@ -1763,7 +1695,6 @@ Jerian Grant,0,22.0,100.0,0.22
 Jerian Grant,1,49.0,134.0,0.366
 Jerian Grant,2,61.0,187.0,0.326
 Jerian Grant,3,40.0,110.0,0.364
-Hassani Gravett,0,11.0,26.0,0.423
 Danny Green,2,102.0,234.0,0.436
 Danny Green,3,177.0,413.0,0.429
 Danny Green,4,132.0,318.0,0.415
@@ -1785,7 +1716,6 @@ Draymond Green,6,47.0,165.0,0.285
 Draymond Green,7,36.0,129.0,0.279
 Draymond Green,8,34.0,126.0,0.27
 Draymond Green,9,16.0,54.0,0.296
-Erick Green,0,14.0,47.0,0.298
 Gerald Green,1,95.0,258.0,0.368
 Gerald Green,2,15.0,39.0,0.385
 Gerald Green,3,14.0,46.0,0.304
@@ -1797,7 +1727,6 @@ Gerald Green,10,84.0,260.0,0.323
 Gerald Green,11,39.0,111.0,0.351
 Gerald Green,12,110.0,298.0,0.369
 Gerald Green,13,156.0,441.0,0.354
-Jalen Green,0,157.0,458.0,0.343
 JaMychal Green,1,15.0,45.0,0.333
 JaMychal Green,2,55.0,145.0,0.379
 JaMychal Green,3,43.0,127.0,0.339
@@ -1822,7 +1751,6 @@ Jeff Green,11,111.0,320.0,0.347
 Jeff Green,12,62.0,183.0,0.339
 Jeff Green,13,103.0,250.0,0.412
 Jeff Green,14,53.0,168.0,0.315
-Josh Green,1,28.0,78.0,0.359
 Willie Green,0,19.0,61.0,0.311
 Willie Green,1,30.0,105.0,0.286
 Willie Green,3,51.0,157.0,0.325
@@ -1838,7 +1766,6 @@ Donté Greene,0,26.0,100.0,0.26
 Donté Greene,1,69.0,183.0,0.377
 Donté Greene,2,45.0,154.0,0.292
 Donté Greene,3,25.0,105.0,0.238
-Orien Greene,0,9.0,40.0,0.225
 Blake Griffin,2,5.0,28.0,0.179
 Blake Griffin,3,12.0,44.0,0.273
 Blake Griffin,6,38.0,113.0,0.336
@@ -1847,8 +1774,6 @@ Blake Griffin,8,189.0,522.0,0.362
 Blake Griffin,9,27.0,111.0,0.243
 Blake Griffin,10,70.0,205.0,0.341
 Blake Griffin,11,38.0,145.0,0.262
-Quentin Grimes,0,72.0,189.0,0.381
-Marko Guduric,0,25.0,83.0,0.301
 Kyle Guy,1,13.0,46.0,0.283
 Kyle Guy,2,14.0,40.0,0.35
 Rui Hachimura,0,25.0,87.0,0.287
@@ -1858,7 +1783,6 @@ P.J. Hairston,0,49.0,163.0,0.301
 P.J. Hairston,1,70.0,241.0,0.29
 Tyrese Haliburton,0,121.0,296.0,0.409
 Tyrese Haliburton,1,161.0,389.0,0.414
-Josh Hall,0,4.0,37.0,0.108
 Jordan Hamilton,0,17.0,47.0,0.362
 Jordan Hamilton,1,27.0,73.0,0.37
 Jordan Hamilton,2,70.0,198.0,0.354
@@ -1881,7 +1805,6 @@ Richard Hamilton,12,17.0,46.0,0.37
 Richard Hamilton,13,16.0,52.0,0.308
 R.J. Hampton,0,27.0,87.0,0.31
 R.J. Hampton,1,64.0,183.0,0.35
-Luke Harangody,0,16.0,66.0,0.242
 Tim Hardaway Jr.,0,130.0,358.0,0.363
 Tim Hardaway Jr.,1,121.0,354.0,0.342
 Tim Hardaway Jr.,2,48.0,142.0,0.338
@@ -1938,7 +1861,6 @@ Gary Harris,4,82.0,242.0,0.339
 Gary Harris,5,70.0,210.0,0.333
 Gary Harris,6,48.0,141.0,0.34
 Gary Harris,7,116.0,302.0,0.384
-Jalen Harris,0,17.0,36.0,0.472
 Joe Harris,0,31.0,84.0,0.369
 Joe Harris,2,85.0,221.0,0.385
 Joe Harris,3,150.0,358.0,0.419
@@ -1948,7 +1870,6 @@ Joe Harris,6,211.0,444.0,0.475
 Joe Harris,7,41.0,88.0,0.466
 Manny Harris,0,34.0,92.0,0.37
 Manny Harris,1,12.0,36.0,0.333
-Terrel Harris,0,8.0,39.0,0.205
 Tobias Harris,1,34.0,108.0,0.315
 Tobias Harris,2,32.0,126.0,0.254
 Tobias Harris,3,87.0,239.0,0.364
@@ -1959,7 +1880,6 @@ Tobias Harris,7,156.0,393.0,0.397
 Tobias Harris,8,131.0,357.0,0.367
 Tobias Harris,9,82.0,208.0,0.394
 Tobias Harris,10,101.0,275.0,0.367
-Aaron Harrison,2,9.0,43.0,0.209
 Andrew Harrison,0,43.0,156.0,0.276
 Andrew Harrison,1,47.0,142.0,0.331
 Shaquille Harrison,0,6.0,26.0,0.231
@@ -1974,10 +1894,8 @@ Josh Hart,1,92.0,274.0,0.336
 Josh Hart,2,121.0,354.0,0.342
 Josh Hart,3,63.0,193.0,0.326
 Josh Hart,4,73.0,213.0,0.343
-Isaiah Hartenstein,3,14.0,30.0,0.467
 Trenton Hassell,0,60.0,165.0,0.364
 Trenton Hassell,1,13.0,40.0,0.325
-Sam Hauser,0,19.0,44.0,0.432
 Spencer Hawes,1,40.0,115.0,0.348
 Spencer Hawes,2,26.0,87.0,0.299
 Spencer Hawes,3,9.0,37.0,0.243
@@ -1993,7 +1911,6 @@ Jarvis Hayes,3,66.0,183.0,0.361
 Jarvis Hayes,4,73.0,194.0,0.376
 Jarvis Hayes,5,94.0,244.0,0.385
 Jarvis Hayes,6,60.0,179.0,0.335
-Jaxson Hayes,2,20.0,57.0,0.351
 Killian Hayes,0,20.0,72.0,0.278
 Killian Hayes,1,44.0,167.0,0.263
 Gordon Hayward,0,35.0,74.0,0.473
@@ -2007,7 +1924,6 @@ Gordon Hayward,8,77.0,231.0,0.333
 Gordon Hayward,9,85.0,222.0,0.383
 Gordon Hayward,10,85.0,205.0,0.415
 Gordon Hayward,11,86.0,220.0,0.391
-Lazar Hayward,0,17.0,60.0,0.283
 Luther Head,0,113.0,313.0,0.361
 Luther Head,1,177.0,401.0,0.441
 Luther Head,2,79.0,225.0,0.351
@@ -2021,8 +1937,6 @@ Gerald Henderson,4,40.0,115.0,0.348
 Gerald Henderson,5,45.0,136.0,0.331
 Gerald Henderson,6,48.0,136.0,0.353
 Gerald Henderson,7,61.0,173.0,0.353
-Myke Henry,0,19.0,58.0,0.328
-Xavier Henry,3,28.0,81.0,0.346
 John Henson,6,11.0,31.0,0.355
 John Henson,7,8.0,36.0,0.222
 Juancho Hernangómez,0,46.0,113.0,0.407
@@ -2031,7 +1945,6 @@ Juancho Hernangómez,2,66.0,181.0,0.365
 Juancho Hernangómez,3,44.0,129.0,0.341
 Juancho Hernangómez,4,55.0,168.0,0.327
 Juancho Hernangómez,5,24.0,69.0,0.348
-Willy Hernangómez,2,15.0,39.0,0.385
 Tyler Herro,0,116.0,298.0,0.389
 Tyler Herro,1,107.0,297.0,0.36
 Tyler Herro,2,175.0,439.0,0.399
@@ -2046,7 +1959,6 @@ Buddy Hield,2,278.0,651.0,0.427
 Buddy Hield,3,271.0,688.0,0.394
 Buddy Hield,4,282.0,721.0,0.391
 Buddy Hield,5,262.0,716.0,0.366
-Haywood Highsmith,3,9.0,28.0,0.321
 George Hill,0,24.0,73.0,0.329
 George Hill,1,75.0,188.0,0.399
 George Hill,2,77.0,204.0,0.377
@@ -2061,7 +1973,6 @@ George Hill,10,48.0,153.0,0.314
 George Hill,11,81.0,176.0,0.46
 George Hill,12,31.0,80.0,0.388
 George Hill,13,41.0,134.0,0.306
-Malcolm Hill,0,13.0,36.0,0.361
 Solomon Hill,1,68.0,208.0,0.327
 Solomon Hill,2,24.0,74.0,0.324
 Solomon Hill,3,94.0,270.0,0.348
@@ -2108,7 +2019,6 @@ Justin Holiday,6,162.0,465.0,0.348
 Justin Holiday,7,134.0,331.0,0.405
 Justin Holiday,8,173.0,453.0,0.382
 Justin Holiday,9,177.0,482.0,0.367
-John Holland,0,11.0,36.0,0.306
 Rondae Hollis-Jefferson,1,15.0,67.0,0.224
 Rondae Hollis-Jefferson,2,13.0,54.0,0.241
 Rondae Hollis-Jefferson,3,9.0,49.0,0.184
@@ -2160,14 +2070,10 @@ Josh Howard,7,7.0,29.0,0.241
 Josh Howard,8,9.0,37.0,0.243
 Markus Howard,0,18.0,65.0,0.277
 Markus Howard,1,28.0,70.0,0.4
-Lester Hudson,2,16.0,64.0,0.25
-Marcelo Huertas,0,16.0,61.0,0.262
 Kevin Huerter,0,136.0,353.0,0.385
 Kevin Huerter,1,127.0,334.0,0.38
 Kevin Huerter,2,140.0,386.0,0.363
 Kevin Huerter,3,160.0,411.0,0.389
-Josh Huestis,2,33.0,115.0,0.287
-Elijah Hughes,1,25.0,95.0,0.263
 Robbie Hummel,0,32.0,89.0,0.36
 Robbie Hummel,1,16.0,51.0,0.314
 Kris Humphries,11,34.0,108.0,0.315
@@ -2175,10 +2081,8 @@ Kris Humphries,12,19.0,54.0,0.352
 De'Andre Hunter,0,108.0,304.0,0.355
 De'Andre Hunter,1,31.0,95.0,0.326
 De'Andre Hunter,2,74.0,195.0,0.379
-R.J. Hunter,0,19.0,63.0,0.302
 Chandler Hutchison,0,14.0,50.0,0.28
 Chandler Hutchison,1,12.0,38.0,0.316
-Bones Hyland,0,131.0,358.0,0.366
 Serge Ibaka,3,20.0,57.0,0.351
 Serge Ibaka,4,23.0,60.0,0.383
 Serge Ibaka,5,77.0,205.0,0.376
@@ -2356,7 +2260,6 @@ Richard Jefferson,12,123.0,301.0,0.409
 Richard Jefferson,13,66.0,155.0,0.426
 Richard Jefferson,14,66.0,173.0,0.382
 Richard Jefferson,15,62.0,186.0,0.333
-DaQuan Jeffries,1,20.0,67.0,0.299
 Jared Jeffries,1,5.0,30.0,0.167
 Jared Jeffries,2,16.0,51.0,0.314
 Jared Jeffries,3,16.0,50.0,0.32
@@ -2386,7 +2289,6 @@ Jonas Jerebko,9,69.0,188.0,0.367
 Ty Jerome,0,14.0,50.0,0.28
 Ty Jerome,1,71.0,168.0,0.423
 Ty Jerome,2,54.0,186.0,0.29
-Eugene Jeter,0,6.0,30.0,0.2
 Yi Jianlian,1,48.0,140.0,0.343
 Yi Jianlian,2,15.0,41.0,0.366
 Isaiah Joe,0,39.0,106.0,0.368
@@ -2434,7 +2336,6 @@ Joe Johnson,15,106.0,258.0,0.411
 Joe Johnson,16,40.0,145.0,0.276
 Keldon Johnson,1,60.0,181.0,0.331
 Keldon Johnson,2,159.0,399.0,0.398
-Keon Johnson,0,34.0,100.0,0.34
 Orlando Johnson,0,36.0,94.0,0.383
 Orlando Johnson,1,9.0,47.0,0.191
 Stanley Johnson,0,63.0,205.0,0.307
@@ -2471,13 +2372,10 @@ Dahntay Jones,6,4.0,32.0,0.125
 Dahntay Jones,7,14.0,39.0,0.359
 Dahntay Jones,8,33.0,77.0,0.429
 Dahntay Jones,9,11.0,49.0,0.224
-Damian Jones,5,10.0,29.0,0.345
-DeQuan Jones,0,9.0,35.0,0.257
 Derrick Jones Jr.,2,28.0,91.0,0.308
 Derrick Jones Jr.,3,37.0,132.0,0.28
 Derrick Jones Jr.,4,43.0,136.0,0.316
 Derrick Jones Jr.,5,20.0,61.0,0.328
-Herbert Jones,0,57.0,169.0,0.337
 Jalen Jones,0,10.0,26.0,0.385
 Jalen Jones,1,10.0,28.0,0.357
 James Jones,1,66.0,166.0,0.398
@@ -2493,14 +2391,12 @@ James Jones,10,28.0,54.0,0.519
 James Jones,11,63.0,175.0,0.36
 James Jones,12,41.0,104.0,0.394
 James Jones,13,31.0,66.0,0.47
-Mason Jones,0,24.0,66.0,0.364
 Perry Jones,1,22.0,61.0,0.361
 Perry Jones,2,14.0,60.0,0.233
 Terrence Jones,1,31.0,101.0,0.307
 Terrence Jones,2,13.0,37.0,0.351
 Terrence Jones,3,25.0,79.0,0.316
 Terrence Jones,4,19.0,75.0,0.253
-Tre Jones,1,10.0,51.0,0.196
 Tyus Jones,0,16.0,53.0,0.302
 Tyus Jones,1,26.0,73.0,0.356
 Tyus Jones,2,45.0,129.0,0.349
@@ -2517,8 +2413,6 @@ Cory Joseph,7,55.0,171.0,0.322
 Cory Joseph,8,56.0,159.0,0.352
 Cory Joseph,9,45.0,132.0,0.341
 Cory Joseph,10,65.0,157.0,0.414
-Mfiondu Kabengele,1,13.0,50.0,0.26
-Georgios Kalaitzakis,0,10.0,26.0,0.385
 Frank Kaminsky,0,68.0,202.0,0.337
 Frank Kaminsky,1,116.0,354.0,0.328
 Frank Kaminsky,2,104.0,274.0,0.38
@@ -2543,11 +2437,9 @@ Luke Kennard,1,106.0,269.0,0.394
 Luke Kennard,2,73.0,183.0,0.399
 Luke Kennard,3,100.0,224.0,0.446
 Luke Kennard,4,190.0,423.0,0.449
-Michael Kidd-Gilchrist,6,16.0,47.0,0.34
 Sean Kilpatrick,1,39.0,114.0,0.342
 Sean Kilpatrick,2,105.0,308.0,0.341
 Sean Kilpatrick,3,46.0,144.0,0.319
-Louis King,2,8.0,27.0,0.296
 Andrei Kirilenko,0,25.0,100.0,0.25
 Andrei Kirilenko,1,37.0,114.0,0.325
 Andrei Kirilenko,2,68.0,201.0,0.338
@@ -2559,7 +2451,6 @@ Andrei Kirilenko,7,20.0,73.0,0.274
 Andrei Kirilenko,8,26.0,89.0,0.292
 Andrei Kirilenko,9,36.0,98.0,0.367
 Andrei Kirilenko,11,35.0,120.0,0.292
-Corey Kispert,0,112.0,320.0,0.35
 Maxi Kleber,0,40.0,128.0,0.313
 Maxi Kleber,1,77.0,218.0,0.353
 Maxi Kleber,2,119.0,319.0,0.373
@@ -2579,7 +2470,6 @@ Brandon Knight,4,120.0,351.0,0.342
 Brandon Knight,5,45.0,139.0,0.324
 Brandon Knight,7,41.0,129.0,0.318
 Brandon Knight,8,45.0,131.0,0.344
-Nathan Knight,0,6.0,33.0,0.182
 Kevin Knox,0,125.0,364.0,0.343
 Kevin Knox,1,65.0,199.0,0.327
 Kevin Knox,2,35.0,89.0,0.393
@@ -2611,8 +2501,6 @@ Kyle Korver,13,162.0,359.0,0.451
 Kyle Korver,14,164.0,376.0,0.436
 Kyle Korver,15,138.0,348.0,0.397
 Kyle Korver,16,99.0,237.0,0.418
-Vit Krejci,0,32.0,98.0,0.327
-Jonathan Kuminga,0,50.0,149.0,0.336
 Rodions Kurucs,0,58.0,184.0,0.315
 Rodions Kurucs,1,33.0,90.0,0.367
 Kyle Kuzma,0,159.0,434.0,0.366
@@ -2620,7 +2508,6 @@ Kyle Kuzma,1,128.0,422.0,0.303
 Kyle Kuzma,2,86.0,272.0,0.316
 Kyle Kuzma,3,137.0,380.0,0.361
 Kyle Kuzma,4,128.0,375.0,0.341
-Mindaugas Kuzminskas,0,54.0,168.0,0.321
 Zach LaVine,0,57.0,167.0,0.341
 Zach LaVine,1,123.0,316.0,0.389
 Zach LaVine,2,120.0,310.0,0.387
@@ -2629,8 +2516,6 @@ Zach LaVine,4,120.0,321.0,0.374
 Zach LaVine,5,184.0,484.0,0.38
 Zach LaVine,6,200.0,477.0,0.419
 Zach LaVine,7,185.0,475.0,0.389
-Skal Labissière,1,18.0,51.0,0.353
-Anthony Lamb,0,23.0,71.0,0.324
 Doron Lamb,0,14.0,37.0,0.378
 Doron Lamb,1,36.0,90.0,0.4
 Jeremy Lamb,0,9.0,30.0,0.3
@@ -2643,11 +2528,8 @@ Jeremy Lamb,6,115.0,330.0,0.348
 Jeremy Lamb,7,53.0,158.0,0.335
 Jeremy Lamb,8,52.0,128.0,0.406
 Jeremy Lamb,9,55.0,170.0,0.324
-Jock Landale,0,29.0,89.0,0.326
-Marcus Landry,0,9.0,28.0,0.321
 Romeo Langford,0,5.0,27.0,0.185
 Romeo Langford,2,29.0,85.0,0.341
-Nicolás Laprovíttola,0,10.0,27.0,0.37
 Shane Larkin,0,12.0,38.0,0.316
 Shane Larkin,1,35.0,116.0,0.302
 Shane Larkin,2,39.0,108.0,0.361
@@ -2678,7 +2560,6 @@ Caris LeVert,4,84.0,258.0,0.326
 Caris LeVert,5,82.0,256.0,0.32
 T.J. Leaf,0,18.0,42.0,0.429
 T.J. Leaf,1,8.0,31.0,0.258
-Ricky Ledo,1,10.0,27.0,0.37
 Courtney Lee,0,82.0,203.0,0.404
 Courtney Lee,1,76.0,225.0,0.338
 Courtney Lee,2,71.0,174.0,0.408
@@ -2696,7 +2577,6 @@ Damion Lee,1,27.0,68.0,0.397
 Damion Lee,2,85.0,239.0,0.356
 Damion Lee,3,77.0,194.0,0.397
 Damion Lee,4,63.0,187.0,0.337
-Saben Lee,1,14.0,60.0,0.233
 Alex Len,5,74.0,204.0,0.363
 Alex Len,6,16.0,59.0,0.271
 Kawhi Leonard,0,41.0,109.0,0.376
@@ -2743,7 +2623,6 @@ Jeremy Lin,8,55.0,187.0,0.294
 Nassir Little,0,14.0,59.0,0.237
 Nassir Little,1,28.0,80.0,0.35
 Nassir Little,2,51.0,154.0,0.331
-Isaiah Livers,0,27.0,64.0,0.422
 Brook Lopez,8,134.0,387.0,0.346
 Brook Lopez,9,112.0,325.0,0.345
 Brook Lopez,10,187.0,512.0,0.365
@@ -2798,7 +2677,6 @@ Trey Lyles,3,51.0,200.0,0.255
 Trey Lyles,4,65.0,168.0,0.387
 Trey Lyles,5,14.0,40.0,0.35
 Trey Lyles,6,67.0,209.0,0.321
-Sheldon Mac,0,7.0,30.0,0.233
 Shelvin Mack,0,12.0,42.0,0.286
 Shelvin Mack,1,18.0,49.0,0.367
 Shelvin Mack,2,62.0,184.0,0.337
@@ -2819,19 +2697,14 @@ Corey Maggette,9,24.0,95.0,0.253
 Corey Maggette,10,13.0,50.0,0.26
 Corey Maggette,11,28.0,78.0,0.359
 Corey Maggette,12,24.0,66.0,0.364
-Ian Mahinmi,12,5.0,26.0,0.192
 Thon Maker,0,28.0,74.0,0.378
 Thon Maker,1,31.0,104.0,0.298
 Thon Maker,2,49.0,153.0,0.32
 Thon Maker,3,22.0,64.0,0.344
 Théo Maledon,0,105.0,313.0,0.335
 Théo Maledon,1,44.0,150.0,0.293
-Sandro Mamukelashvili,0,22.0,52.0,0.423
 Terance Mann,1,38.0,91.0,0.418
 Terance Mann,2,76.0,208.0,0.365
-Tre Mann,0,98.0,272.0,0.36
-Nico Mannion,0,22.0,60.0,0.367
-Devyn Marble,1,8.0,32.0,0.25
 Shawn Marion,1,21.0,82.0,0.256
 Shawn Marion,2,48.0,122.0,0.393
 Shawn Marion,3,141.0,364.0,0.387
@@ -2910,7 +2783,6 @@ Roger Mason,11,17.0,48.0,0.354
 Garrison Mathews,0,19.0,46.0,0.413
 Garrison Mathews,1,76.0,198.0,0.384
 Garrison Mathews,2,139.0,386.0,0.36
-Dakota Mathias,0,8.0,26.0,0.308
 Wesley Matthews,0,63.0,165.0,0.382
 Wesley Matthews,1,154.0,378.0,0.407
 Wesley Matthews,2,129.0,337.0,0.383
@@ -2938,13 +2810,11 @@ O.J. Mayo,4,142.0,349.0,0.407
 O.J. Mayo,5,84.0,227.0,0.37
 O.J. Mayo,6,99.0,277.0,0.357
 O.J. Mayo,7,52.0,162.0,0.321
-Skylar Mays,0,14.0,40.0,0.35
 Luc Mbah a Moute,4,13.0,37.0,0.351
 Luc Mbah a Moute,6,62.0,202.0,0.307
 Luc Mbah a Moute,7,13.0,40.0,0.325
 Luc Mbah a Moute,8,43.0,110.0,0.391
 Luc Mbah a Moute,9,63.0,173.0,0.364
-Miles McBride,0,17.0,68.0,0.25
 Ray McCallum,0,22.0,59.0,0.373
 Ray McCallum,1,34.0,111.0,0.306
 Ray McCallum,2,15.0,42.0,0.357
@@ -2967,7 +2837,6 @@ T.J. McConnell,2,27.0,62.0,0.435
 T.J. McConnell,3,14.0,42.0,0.333
 T.J. McConnell,5,15.0,48.0,0.313
 T.J. McConnell,6,10.0,33.0,0.303
-Chris McCullough,0,13.0,34.0,0.382
 Jaden McDaniels,0,72.0,198.0,0.364
 Jaden McDaniels,1,80.0,252.0,0.317
 Jalen McDaniels,1,35.0,105.0,0.333
@@ -3019,14 +2888,12 @@ Jodie Meeks,4,162.0,404.0,0.401
 Jodie Meeks,5,74.0,212.0,0.349
 Jodie Meeks,7,56.0,137.0,0.409
 Jodie Meeks,8,72.0,210.0,0.343
-Salah Mejri,3,11.0,34.0,0.324
 Nicolò Melli,0,69.0,206.0,0.335
 Nicolò Melli,1,23.0,85.0,0.271
 De'Anthony Melton,0,29.0,95.0,0.305
 De'Anthony Melton,1,40.0,140.0,0.286
 De'Anthony Melton,2,87.0,211.0,0.412
 De'Anthony Melton,3,139.0,372.0,0.374
-Sam Merrill,0,21.0,47.0,0.447
 Chimezie Metu,2,13.0,37.0,0.351
 Chimezie Metu,3,57.0,186.0,0.306
 Khris Middleton,0,14.0,45.0,0.311
@@ -3089,7 +2956,6 @@ Mike Miller,12,73.0,175.0,0.417
 Mike Miller,13,107.0,233.0,0.459
 Mike Miller,14,32.0,98.0,0.327
 Mike Miller,15,19.0,52.0,0.365
-Quincy Miller,1,30.0,94.0,0.319
 Patty Mills,1,47.0,133.0,0.353
 Patty Mills,2,24.0,56.0,0.429
 Patty Mills,3,52.0,130.0,0.4
@@ -3102,7 +2968,6 @@ Patty Mills,9,159.0,404.0,0.394
 Patty Mills,10,154.0,403.0,0.382
 Patty Mills,11,161.0,429.0,0.375
 Patty Mills,12,227.0,568.0,0.4
-Elijah Millsap,0,28.0,90.0,0.311
 Paul Millsap,5,7.0,31.0,0.226
 Paul Millsap,6,13.0,39.0,0.333
 Paul Millsap,7,76.0,212.0,0.358
@@ -3123,19 +2988,16 @@ Nikola Mirotić,1,135.0,346.0,0.39
 Nikola Mirotić,2,129.0,377.0,0.342
 Nikola Mirotić,3,135.0,358.0,0.377
 Nikola Mirotić,4,116.0,318.0,0.365
-Davion Mitchell,0,101.0,320.0,0.316
 Donovan Mitchell,0,187.0,550.0,0.34
 Donovan Mitchell,1,188.0,519.0,0.362
 Donovan Mitchell,2,173.0,473.0,0.366
 Donovan Mitchell,3,178.0,461.0,0.386
 Donovan Mitchell,4,232.0,654.0,0.355
-Evan Mobley,0,23.0,92.0,0.25
 Malik Monk,0,83.0,243.0,0.342
 Malik Monk,1,109.0,330.0,0.33
 Malik Monk,2,58.0,204.0,0.284
 Malik Monk,3,85.0,212.0,0.401
 Malik Monk,4,173.0,442.0,0.391
-Moses Moody,0,40.0,110.0,0.364
 Jamario Moon,0,40.0,122.0,0.328
 Jamario Moon,1,65.0,183.0,0.355
 Jamario Moon,2,32.0,100.0,0.32
@@ -3212,7 +3074,6 @@ Mychal Mulder,2,17.0,54.0,0.315
 Byron Mullens,2,12.0,51.0,0.235
 Byron Mullens,3,66.0,208.0,0.317
 Byron Mullens,4,33.0,89.0,0.371
-Trey Murphy III,0,71.0,186.0,0.382
 Troy Murphy,3,59.0,148.0,0.399
 Troy Murphy,4,58.0,181.0,0.32
 Troy Murphy,5,58.0,147.0,0.395
@@ -3238,7 +3099,6 @@ Ronald Murray,4,24.0,83.0,0.289
 Ronald Murray,5,20.0,63.0,0.317
 Ronald Murray,6,87.0,242.0,0.36
 Ronald Murray,7,69.0,221.0,0.312
-Džanan Musa,1,19.0,78.0,0.244
 Mike Muscala,2,12.0,39.0,0.308
 Mike Muscala,3,46.0,110.0,0.418
 Mike Muscala,4,62.0,167.0,0.371
@@ -3306,7 +3166,6 @@ Andrew Nicholson,1,28.0,89.0,0.315
 Andrew Nicholson,2,13.0,41.0,0.317
 Andrew Nicholson,3,41.0,114.0,0.36
 Andrew Nicholson,4,5.0,27.0,0.185
-Daishen Nix,0,7.0,26.0,0.269
 Zeke Nnaji,0,24.0,59.0,0.407
 Zeke Nnaji,1,37.0,80.0,0.463
 Andrés Nocioni,0,25.0,97.0,0.258
@@ -3345,7 +3204,6 @@ David Nwaba,4,17.0,63.0,0.27
 David Nwaba,5,15.0,49.0,0.306
 Jordan Nwora,0,28.0,62.0,0.452
 Jordan Nwora,1,79.0,227.0,0.348
-Johnny O'Bryant,3,14.0,43.0,0.326
 Royce O'Neale,0,42.0,118.0,0.356
 Royce O'Neale,1,68.0,176.0,0.386
 Royce O'Neale,2,92.0,244.0,0.377
@@ -3411,7 +3269,6 @@ Kelly Olynyk,5,113.0,319.0,0.354
 Kelly Olynyk,6,95.0,234.0,0.406
 Kelly Olynyk,7,126.0,368.0,0.342
 Kelly Olynyk,8,40.0,119.0,0.336
-Miye Oni,1,30.0,88.0,0.341
 Cedi Osman,0,32.0,87.0,0.368
 Cedi Osman,1,130.0,374.0,0.348
 Cedi Osman,2,123.0,321.0,0.383
@@ -3433,7 +3290,6 @@ Travis Outlaw,7,76.0,252.0,0.302
 Travis Outlaw,8,16.0,60.0,0.267
 Travis Outlaw,9,14.0,50.0,0.28
 Travis Outlaw,10,41.0,117.0,0.35
-Kevin Pangos,0,6.0,26.0,0.231
 Kostas Papanikolaou,0,31.0,106.0,0.292
 Kostas Papanikolaou,1,10.0,32.0,0.313
 Jannero Pargo,1,22.0,62.0,0.355
@@ -3481,7 +3337,6 @@ Chandler Parsons,7,29.0,94.0,0.309
 Eric Paschall,0,37.0,129.0,0.287
 Eric Paschall,1,18.0,54.0,0.333
 Eric Paschall,2,40.0,108.0,0.37
-Lamar Patterson,0,12.0,49.0,0.245
 Patrick Patterson,2,51.0,132.0,0.386
 Patrick Patterson,3,55.0,151.0,0.364
 Patrick Patterson,4,105.0,283.0,0.371
@@ -3491,8 +3346,6 @@ Patrick Patterson,7,66.0,171.0,0.386
 Patrick Patterson,8,46.0,137.0,0.336
 Patrick Patterson,9,67.0,172.0,0.39
 Patrick Patterson,10,40.0,112.0,0.357
-Justin Patton,3,9.0,34.0,0.265
-Brandon Paul,0,15.0,54.0,0.278
 Chris Paul,0,50.0,177.0,0.282
 Chris Paul,1,50.0,143.0,0.35
 Chris Paul,2,92.0,249.0,0.369
@@ -3520,7 +3373,6 @@ Sasha Pavlović,6,35.0,118.0,0.297
 Sasha Pavlović,7,12.0,31.0,0.387
 Sasha Pavlović,8,17.0,58.0,0.293
 Sasha Pavlović,9,18.0,60.0,0.3
-Adreian Payne,1,9.0,32.0,0.281
 Cameron Payne,0,36.0,111.0,0.324
 Cameron Payne,1,27.0,86.0,0.314
 Cameron Payne,2,35.0,91.0,0.385
@@ -3540,7 +3392,6 @@ Gary Payton II,5,43.0,120.0,0.358
 Oleksiy Pecherov,0,17.0,60.0,0.283
 Oleksiy Pecherov,1,14.0,43.0,0.326
 Oleksiy Pecherov,2,14.0,52.0,0.269
-Alec Peters,0,18.0,58.0,0.31
 Morris Peterson,0,63.0,165.0,0.382
 Morris Peterson,1,84.0,231.0,0.364
 Morris Peterson,2,116.0,344.0,0.337
@@ -3551,7 +3402,6 @@ Morris Peterson,6,106.0,295.0,0.359
 Morris Peterson,7,113.0,287.0,0.394
 Morris Peterson,8,33.0,85.0,0.388
 Morris Peterson,9,62.0,171.0,0.363
-Jamorko Pickett,0,13.0,39.0,0.333
 Mickaël Piétrus,0,35.0,105.0,0.333
 Mickaël Piétrus,1,67.0,195.0,0.344
 Mickaël Piétrus,2,56.0,176.0,0.318
@@ -3648,7 +3498,6 @@ Pablo Prigioni,0,53.0,134.0,0.396
 Pablo Prigioni,1,65.0,140.0,0.464
 Pablo Prigioni,2,57.0,166.0,0.343
 Pablo Prigioni,3,28.0,95.0,0.295
-Joshua Primo,0,42.0,137.0,0.307
 Taurean Prince,0,33.0,102.0,0.324
 Taurean Prince,1,176.0,457.0,0.385
 Taurean Prince,2,123.0,315.0,0.39
@@ -3670,7 +3519,6 @@ Tayshaun Prince,11,20.0,69.0,0.29
 Tayshaun Prince,12,31.0,67.0,0.463
 Payton Pritchard,0,102.0,248.0,0.411
 Payton Pritchard,1,101.0,245.0,0.412
-Rodney Purvis,0,13.0,52.0,0.25
 Immanuel Quickley,0,118.0,303.0,0.389
 Immanuel Quickley,1,137.0,396.0,0.346
 Chris Quinn,0,20.0,57.0,0.351
@@ -3700,7 +3548,6 @@ Julius Randle,4,67.0,195.0,0.344
 Julius Randle,5,64.0,231.0,0.277
 Julius Randle,6,160.0,389.0,0.411
 Julius Randle,7,120.0,390.0,0.308
-Anthony Randolph,5,18.0,61.0,0.295
 Zach Randolph,4,16.0,55.0,0.291
 Zach Randolph,5,14.0,48.0,0.292
 Zach Randolph,6,22.0,80.0,0.275
@@ -3710,7 +3557,6 @@ Zach Randolph,9,8.0,43.0,0.186
 Zach Randolph,14,6.0,26.0,0.231
 Zach Randolph,15,21.0,94.0,0.223
 Zach Randolph,16,51.0,147.0,0.347
-Austin Reaves,0,53.0,167.0,0.317
 Michael Redd,1,88.0,198.0,0.444
 Michael Redd,2,182.0,416.0,0.438
 Michael Redd,3,127.0,363.0,0.35
@@ -3744,7 +3590,6 @@ Davon Reed,4,37.0,86.0,0.43
 Naz Reid,0,32.0,97.0,0.33
 Naz Reid,1,61.0,174.0,0.351
 Naz Reid,2,57.0,166.0,0.343
-Cameron Reynolds,0,21.0,51.0,0.412
 Jason Richardson,0,82.0,246.0,0.333
 Jason Richardson,1,123.0,334.0,0.368
 Jason Richardson,2,77.0,273.0,0.282
@@ -3823,7 +3668,6 @@ Glenn Robinson III,6,16.0,44.0,0.364
 Jerome Robinson,0,18.0,57.0,0.316
 Jerome Robinson,1,49.0,153.0,0.32
 Jerome Robinson,2,11.0,42.0,0.262
-Justin Robinson,2,18.0,61.0,0.295
 Nate Robinson,0,58.0,146.0,0.397
 Nate Robinson,1,83.0,213.0,0.39
 Nate Robinson,2,97.0,292.0,0.332
@@ -3834,7 +3678,6 @@ Nate Robinson,6,66.0,181.0,0.365
 Nate Robinson,7,141.0,348.0,0.405
 Nate Robinson,8,58.0,154.0,0.377
 Nate Robinson,9,31.0,112.0,0.277
-Jeremiah Robinson-Earl,0,58.0,165.0,0.352
 Isaiah Roby,1,32.0,109.0,0.294
 Isaiah Roby,2,44.0,99.0,0.444
 Sergio Rodríguez,0,24.0,85.0,0.282
@@ -3870,7 +3713,6 @@ Derrick Rose,10,54.0,146.0,0.37
 Derrick Rose,11,45.0,147.0,0.306
 Derrick Rose,12,50.0,129.0,0.388
 Derrick Rose,13,37.0,92.0,0.402
-Quinton Ross,4,33.0,88.0,0.375
 Terrence Ross,0,65.0,196.0,0.332
 Terrence Ross,1,161.0,408.0,0.395
 Terrence Ross,2,145.0,390.0,0.372
@@ -3946,8 +3788,6 @@ John Salmons,9,33.0,112.0,0.295
 John Salmons,10,99.0,267.0,0.371
 John Salmons,11,63.0,163.0,0.387
 John Salmons,12,8.0,26.0,0.308
-Luka Šamanić,1,12.0,43.0,0.279
-Brandon Sampson,0,11.0,29.0,0.379
 JaKarr Sampson,0,31.0,127.0,0.244
 JaKarr Sampson,1,14.0,63.0,0.222
 Dario Šarić,0,106.0,341.0,0.311
@@ -3955,7 +3795,6 @@ Dario Šarić,1,157.0,399.0,0.393
 Dario Šarić,2,118.0,323.0,0.365
 Dario Šarić,3,84.0,235.0,0.357
 Dario Šarić,4,47.0,135.0,0.348
-Olivier Sarr,0,13.0,29.0,0.448
 Tomáš Satoranský,0,9.0,37.0,0.243
 Tomáš Satoranský,1,47.0,101.0,0.465
 Tomáš Satoranský,2,64.0,162.0,0.395
@@ -4008,7 +3847,6 @@ Thabo Sefolosha,13,15.0,54.0,0.278
 Wayne Selden,0,7.0,28.0,0.25
 Wayne Selden,1,49.0,122.0,0.402
 Wayne Selden,2,55.0,174.0,0.316
-Alperen Şengün,0,29.0,117.0,0.248
 Ramon Sessions,1,6.0,34.0,0.176
 Ramon Sessions,4,43.0,97.0,0.443
 Ramon Sessions,5,33.0,107.0,0.308
@@ -4052,7 +3890,6 @@ Jonathon Simmons,0,18.0,47.0,0.383
 Jonathon Simmons,1,30.0,102.0,0.294
 Jonathon Simmons,2,69.0,204.0,0.338
 Jonathon Simmons,3,28.0,104.0,0.269
-Kobi Simmons,0,11.0,39.0,0.282
 Anfernee Simons,0,10.0,29.0,0.345
 Anfernee Simons,1,75.0,226.0,0.332
 Anfernee Simons,2,120.0,282.0,0.426
@@ -4066,11 +3903,9 @@ Chris Singleton,0,44.0,127.0,0.346
 Chris Singleton,1,7.0,36.0,0.194
 James Singleton,3,13.0,40.0,0.325
 James Singleton,4,7.0,37.0,0.189
-Deividas Sirvydis,0,10.0,28.0,0.357
 Donald Sloan,2,10.0,42.0,0.238
 Donald Sloan,3,41.0,131.0,0.313
 Donald Sloan,4,38.0,99.0,0.384
-Javonte Smart,0,8.0,27.0,0.296
 Marcus Smart,0,91.0,272.0,0.335
 Marcus Smart,1,61.0,241.0,0.253
 Marcus Smart,2,94.0,332.0,0.283
@@ -4108,7 +3943,6 @@ J.R. Smith,11,204.0,510.0,0.4
 J.R. Smith,12,95.0,271.0,0.351
 J.R. Smith,13,143.0,381.0,0.375
 J.R. Smith,14,12.0,39.0,0.308
-Jalen Smith,1,40.0,122.0,0.328
 Jason Smith,2,10.0,29.0,0.345
 Jason Smith,7,15.0,42.0,0.357
 Jason Smith,9,37.0,78.0,0.474
@@ -4154,7 +3988,6 @@ Lance Stephenson,5,30.0,78.0,0.385
 Lance Stephenson,7,67.0,232.0,0.289
 Lance Stephenson,8,73.0,197.0,0.371
 Lance Stephenson,11,27.0,90.0,0.3
-Lamar Stevens,1,18.0,65.0,0.277
 DeShawn Stevenson,3,19.0,71.0,0.268
 DeShawn Stevenson,4,25.0,67.0,0.373
 DeShawn Stevenson,6,74.0,183.0,0.404
@@ -4166,7 +3999,6 @@ DeShawn Stevenson,11,41.0,145.0,0.283
 DeShawn Stevenson,12,76.0,209.0,0.364
 Isaiah Stewart,0,21.0,63.0,0.333
 Isaiah Stewart,1,15.0,46.0,0.326
-Amar'e Stoudemire,5,5.0,31.0,0.161
 Max Strus,1,50.0,148.0,0.338
 Max Strus,2,181.0,442.0,0.41
 Rodney Stuckey,1,23.0,78.0,0.295
@@ -4178,15 +4010,12 @@ Rodney Stuckey,6,24.0,88.0,0.273
 Rodney Stuckey,7,55.0,141.0,0.39
 Rodney Stuckey,8,20.0,83.0,0.241
 Rodney Stuckey,9,19.0,60.0,0.317
-Jalen Suggs,0,42.0,196.0,0.214
 Jared Sullinger,1,56.0,208.0,0.269
 Jared Sullinger,2,52.0,184.0,0.283
 Jared Sullinger,3,29.0,103.0,0.282
-DaJuan Summers,0,15.0,42.0,0.357
 Edmond Sumner,1,7.0,27.0,0.259
 Edmond Sumner,2,14.0,53.0,0.264
 Edmond Sumner,3,35.0,88.0,0.398
-Keifer Sykes,0,27.0,90.0,0.3
 Jae'Sean Tate,0,60.0,195.0,0.308
 Jae'Sean Tate,1,63.0,202.0,0.312
 Jayson Tatum,0,105.0,242.0,0.434
@@ -4194,12 +4023,9 @@ Jayson Tatum,1,116.0,311.0,0.373
 Jayson Tatum,2,189.0,469.0,0.403
 Jayson Tatum,3,187.0,485.0,0.386
 Jayson Tatum,4,230.0,651.0,0.353
-Isaiah Taylor,1,20.0,80.0,0.25
 Jeff Taylor,0,53.0,154.0,0.344
 Jeff Taylor,1,18.0,67.0,0.269
 Jeff Taylor,2,11.0,36.0,0.306
-Jermaine Taylor,1,14.0,45.0,0.311
-Terry Taylor,0,12.0,38.0,0.316
 Jeff Teague,0,7.0,32.0,0.219
 Jeff Teague,1,18.0,48.0,0.375
 Jeff Teague,2,51.0,149.0,0.342
@@ -4266,8 +4092,6 @@ Daniel Theis,1,26.0,67.0,0.388
 Daniel Theis,2,32.0,96.0,0.333
 Daniel Theis,3,49.0,152.0,0.322
 Daniel Theis,4,33.0,107.0,0.308
-Brodric Thomas,0,16.0,59.0,0.271
-Cam Thomas,0,47.0,174.0,0.27
 Isaiah Thomas,0,83.0,219.0,0.379
 Isaiah Thomas,1,115.0,321.0,0.358
 Isaiah Thomas,2,127.0,364.0,0.349
@@ -4302,7 +4126,6 @@ Klay Thompson,5,268.0,647.0,0.414
 Klay Thompson,6,229.0,521.0,0.44
 Klay Thompson,7,241.0,599.0,0.402
 Klay Thompson,10,114.0,296.0,0.385
-JT Thor,0,7.0,27.0,0.259
 Al Thornton,0,43.0,130.0,0.331
 Al Thornton,1,20.0,79.0,0.253
 Al Thornton,2,11.0,31.0,0.355
@@ -4315,7 +4138,6 @@ Marcus Thornton,4,109.0,316.0,0.345
 Marcus Thornton,5,54.0,143.0,0.378
 Marcus Thornton,6,91.0,270.0,0.337
 Marcus Thornton,7,28.0,80.0,0.35
-Sindarius Thornwell,0,23.0,61.0,0.377
 Matisse Thybulle,0,56.0,157.0,0.357
 Matisse Thybulle,1,43.0,143.0,0.301
 Matisse Thybulle,2,45.0,144.0,0.313
@@ -4349,7 +4171,6 @@ Obi Toppin,0,26.0,85.0,0.306
 Obi Toppin,1,52.0,169.0,0.308
 Juan Toscano-Anderson,1,37.0,92.0,0.402
 Juan Toscano-Anderson,2,28.0,87.0,0.322
-Axel Toupane,0,13.0,40.0,0.325
 Karl-Anthony Towns,0,30.0,88.0,0.341
 Karl-Anthony Towns,1,101.0,275.0,0.367
 Karl-Anthony Towns,2,120.0,285.0,0.421
@@ -4418,7 +4239,6 @@ Beno Udrih,9,19.0,42.0,0.452
 Beno Udrih,10,26.0,97.0,0.268
 Beno Udrih,11,15.0,44.0,0.341
 Beno Udrih,12,11.0,32.0,0.344
-Roko Ukić,0,11.0,62.0,0.177
 Tyler Ulis,0,21.0,79.0,0.266
 Tyler Ulis,1,42.0,146.0,0.288
 Jonas Valančiūnas,5,30.0,74.0,0.405
@@ -4502,12 +4322,10 @@ Von Wafer,2,4.0,26.0,0.154
 Von Wafer,3,64.0,164.0,0.39
 Von Wafer,5,18.0,67.0,0.269
 Von Wafer,6,14.0,39.0,0.359
-Franz Wagner,0,96.0,271.0,0.354
 Moritz Wagner,0,22.0,77.0,0.286
 Moritz Wagner,1,25.0,80.0,0.313
 Moritz Wagner,2,31.0,91.0,0.341
 Moritz Wagner,3,66.0,201.0,0.328
-Ish Wainright,0,19.0,59.0,0.322
 Dion Waiters,0,63.0,203.0,0.31
 Dion Waiters,1,92.0,250.0,0.368
 Dion Waiters,2,73.0,246.0,0.297
@@ -4554,7 +4372,6 @@ Gerald Wallace,9,62.0,186.0,0.333
 Gerald Wallace,10,46.0,150.0,0.307
 Gerald Wallace,11,46.0,163.0,0.282
 Gerald Wallace,12,19.0,64.0,0.297
-Tyrone Wallace,0,10.0,40.0,0.25
 Luke Walton,0,13.0,39.0,0.333
 Luke Walton,1,16.0,61.0,0.262
 Luke Walton,2,18.0,55.0,0.327
@@ -4571,16 +4388,11 @@ T.J. Warren,2,26.0,98.0,0.265
 T.J. Warren,3,20.0,90.0,0.222
 T.J. Warren,4,77.0,180.0,0.428
 T.J. Warren,5,91.0,226.0,0.403
-Hakim Warrick,2,13.0,48.0,0.271
-Duane Washington Jr.,0,81.0,215.0,0.377
 P.J. Washington,0,86.0,230.0,0.374
 P.J. Washington,1,112.0,290.0,0.386
 P.J. Washington,2,110.0,301.0,0.365
 Yuta Watanabe,2,36.0,90.0,0.4
 Yuta Watanabe,3,27.0,79.0,0.342
-Lindy Waters III,0,53.0,146.0,0.363
-Tremont Waters,1,15.0,38.0,0.395
-Trendon Watford,0,9.0,38.0,0.237
 C.J. Watson,0,9.0,26.0,0.346
 C.J. Watson,1,48.0,120.0,0.4
 C.J. Watson,2,45.0,145.0,0.31
@@ -4605,10 +4417,8 @@ Earl Watson,10,10.0,52.0,0.192
 Earl Watson,11,5.0,28.0,0.179
 Paul Watson,1,30.0,64.0,0.469
 Paul Watson,2,6.0,26.0,0.231
-Maalik Wayns,0,7.0,31.0,0.226
 Travis Wear,0,11.0,30.0,0.367
 Travis Wear,3,17.0,47.0,0.362
-Kyle Weaver,0,32.0,93.0,0.344
 Martell Webster,0,65.0,182.0,0.357
 Martell Webster,1,91.0,250.0,0.364
 Martell Webster,2,123.0,317.0,0.388
@@ -4620,7 +4430,6 @@ Martell Webster,8,146.0,372.0,0.392
 Martell Webster,9,10.0,43.0,0.233
 Sonny Weems,2,17.0,61.0,0.279
 Sonny Weems,7,15.0,41.0,0.366
-David West,6,7.0,27.0,0.259
 Delonte West,0,24.0,67.0,0.358
 Delonte West,1,84.0,218.0,0.385
 Delonte West,2,65.0,178.0,0.365
@@ -4643,7 +4452,6 @@ Russell Westbrook,10,119.0,411.0,0.29
 Russell Westbrook,11,55.0,213.0,0.258
 Russell Westbrook,12,86.0,273.0,0.315
 Russell Westbrook,13,79.0,265.0,0.298
-Andrew White,0,18.0,49.0,0.367
 Coby White,0,133.0,376.0,0.354
 Coby White,1,163.0,454.0,0.359
 Coby White,2,136.0,353.0,0.385
@@ -4651,11 +4459,6 @@ Derrick White,1,48.0,142.0,0.338
 Derrick White,2,79.0,216.0,0.366
 Derrick White,3,84.0,243.0,0.346
 Derrick White,4,115.0,369.0,0.312
-James White,6,14.0,41.0,0.341
-Okaro White,0,12.0,34.0,0.353
-Isaiah Whitehead,0,44.0,149.0,0.295
-Joe Wieskamp,0,14.0,43.0,0.326
-Aaron Wiggins,0,42.0,138.0,0.304
 Andrew Wiggins,0,39.0,126.0,0.31
 Andrew Wiggins,1,57.0,190.0,0.3
 Andrew Wiggins,2,103.0,289.0,0.356
@@ -4664,7 +4467,6 @@ Andrew Wiggins,4,118.0,348.0,0.339
 Andrew Wiggins,5,111.0,334.0,0.332
 Andrew Wiggins,6,140.0,368.0,0.38
 Andrew Wiggins,7,157.0,399.0,0.393
-Lindell Wigginton,0,9.0,26.0,0.346
 Damien Wilkins,0,16.0,59.0,0.271
 Damien Wilkins,1,14.0,56.0,0.25
 Damien Wilkins,2,50.0,122.0,0.41
@@ -4672,9 +4474,6 @@ Damien Wilkins,3,50.0,155.0,0.323
 Damien Wilkins,4,27.0,72.0,0.375
 Damien Wilkins,5,18.0,61.0,0.295
 Damien Wilkins,8,17.0,51.0,0.333
-Mike Wilks,0,10.0,35.0,0.286
-Brandon Williams,0,31.0,106.0,0.292
-C.J. Williams,0,22.0,78.0,0.282
 Deron Williams,0,91.0,219.0,0.416
 Deron Williams,1,82.0,255.0,0.322
 Deron Williams,2,83.0,210.0,0.395
@@ -4761,12 +4560,9 @@ Terrence Williams,2,16.0,46.0,0.348
 Troy Williams,0,18.0,62.0,0.29
 Troy Williams,1,11.0,38.0,0.289
 Troy Williams,2,14.0,44.0,0.318
-Ziaire Williams,0,76.0,242.0,0.314
-Zion Williamson,1,10.0,34.0,0.294
 D.J. Wilson,1,46.0,127.0,0.362
 D.J. Wilson,2,18.0,73.0,0.247
 D.J. Wilson,3,30.0,87.0,0.345
-Jamil Wilson,0,27.0,63.0,0.429
 Dylan Windler,0,26.0,77.0,0.338
 Dylan Windler,1,21.0,70.0,0.3
 Justise Winslow,0,32.0,116.0,0.276
@@ -4776,8 +4572,6 @@ Justise Winslow,3,96.0,256.0,0.375
 Justise Winslow,4,6.0,27.0,0.222
 Justise Winslow,5,10.0,54.0,0.185
 Justise Winslow,6,15.0,66.0,0.227
-James Wiseman,0,12.0,38.0,0.316
-Nate Wolters,0,18.0,62.0,0.29
 Christian Wood,3,9.0,26.0,0.346
 Christian Wood,4,54.0,140.0,0.386
 Christian Wood,5,77.0,206.0,0.374
@@ -4855,6 +4649,5 @@ Trae Young,2,136.0,397.0,0.343
 Trae Young,3,233.0,610.0,0.382
 Cody Zeller,6,18.0,75.0,0.24
 Cody Zeller,7,4.0,28.0,0.143
-Tyler Zeller,5,10.0,28.0,0.357
 Paul Zipser,0,33.0,99.0,0.333
 Paul Zipser,1,37.0,110.0,0.336
